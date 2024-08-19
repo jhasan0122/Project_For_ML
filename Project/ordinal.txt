@@ -1,0 +1,8 @@
+
+
+
+
+
+NA,	Po ,Fa ,TA ,Gd, Ex
+
+['NA',	'Po' ,'Fa' ,'TA' ,'Gd',' Ex'],
